@@ -1,0 +1,6 @@
+[submodule "BACKEND-RESTful-API-Laravel-Vue-JS"]
+	path = BACKEND-RESTful-API-Laravel-Vue-JS
+	url = https://github.com/vinopermana77/BACKEND-RESTful-API-Laravel-Vue-JS
+[submodule "FRONTEND-RESTful-API-Laravel-Vue-JS"]
+	path = FRONTEND-RESTful-API-Laravel-Vue-JS
+	url = https://github.com/vinopermana77/FRONTEND-RESTful-API-Laravel-Vue-JS
